@@ -1,4 +1,4 @@
-# Guess-Random-Number-Game
+
 **Task: Below are the steps:**
 
 Build a Number guessing game, in which the user selects a range.
